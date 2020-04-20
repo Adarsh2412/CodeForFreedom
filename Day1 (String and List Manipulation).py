@@ -19,10 +19,9 @@ for i in range(0,num):
 # Make necassary changes to each string as directed by the requirements
 for i in range(0,num):
     if((i+1)==len(string2_list[i])):
-        if(string2_list[i]==string_list[i]):
-            continue
-        else:
-            string2_list[i]=string2_list[i].upper()
+        string2_list[i]=string2_list[i].upper()
+    elif string2_list[i]==string_list[i]:
+        continue
     else:
         string2_list[i]=string2_list[i].lower()
 
