@@ -1,4 +1,3 @@
-CodeForFreedom Challenge 20/04/2020
 
 Write a program to print a list of strings in the predefined order, with the following modifications:
 If the string’s length is equal to its printed position, convert string to UPPERCASE
