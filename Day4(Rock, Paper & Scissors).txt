@@ -1,0 +1,1 @@
+A simple game of Rock, Paper and Scissors against the computer.
