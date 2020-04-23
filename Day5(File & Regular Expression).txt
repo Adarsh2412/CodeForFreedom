@@ -1,0 +1,5 @@
+A program where you must find all numbers in file and add them.
+
+
+Sample Data-http://py4e-data.dr-chuck.net/regex_sum_456390.txt
+Test Data-http://py4e-data.dr-chuck.net/regex_sum_42.txt
